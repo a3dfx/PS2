@@ -1,0 +1,6 @@
+
+**/lwc/**/*.json
+
+**/aura/**/*.json
+
+.sfdx

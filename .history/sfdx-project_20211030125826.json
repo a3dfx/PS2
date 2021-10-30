@@ -1,8 +1,8 @@
 {
-  "packageDirectories" : [ 
-    { "path": "force-app", "default": false}, 
-    { "path" : "force-app/main/default/unpackaged", "default": false }, 
-    { "path" : "utils" } 
+  "packageDirectories": [
+    { "path": "force-app", "default": false },
+    { "path": "force-app/main/default/unpackaged", "default": false },
+    { "path": "utils" }
   ],
   "name": "PS2",
   "namespace": "",

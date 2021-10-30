@@ -1,7 +1,5 @@
 {
-  "packageDirectories": [    
-      { "path": "force-app", "default": true}
-  ],
+  "packageDirectories": [{ "path": "force-app", "default": true }],
   "name": "PS2",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",

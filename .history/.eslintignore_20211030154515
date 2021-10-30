@@ -1,0 +1,14 @@
+**/lwc/**/*.css
+**/lwc/**/*.html
+**/lwc/**/*.svg
+**/lwc/**/*.xml
+**/aura/**/*.auradoc
+**/aura/**/*.cmp
+**/aura/**/*.css
+**/aura/**/*.design
+**/aura/**/*.evt
+**/aura/**/*.svg
+**/aura/**/*.tokens
+**/aura/**/*.xml
+**/aura/**/*.app
+.sfdx
