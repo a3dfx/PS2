@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [    
+      { "path": "force-app", "default": true}, 
+      { "path" : "unpackaged" }, 
+      { "path" : "utils" }     
+  ],
+  "name": "PS2",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}

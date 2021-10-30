@@ -1,0 +1,28 @@
+{
+  "packageDirectories": [
+    {
+        "path": "force-app",
+        "package": "TV_unl", 
+        "versionName": "ver 0.1",
+        "versionNumber": "0.1.0.NEXT",
+        "default": true, 
+        "unpackagedMetadata": {
+            "path": "my-unpackaged-directory"
+        },
+        "apexTestAccess": {
+               "permissionSets": [
+                   "Permission_Set_1",
+                   "Permission_Set_2"
+               ],
+               "permissionSetLicenses": [
+                   "SalesConsoleUser"
+               ]
+           }
+
+    }, 
+    {
+        "path": "my-unpackaged-directory",
+        "default": false
+    }
+]
+}
