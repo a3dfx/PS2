@@ -1,5 +1,5 @@
 public with sharing class FirstClass {
     public FirstClass() {
-        system.debug('helgggggglffoggzzzttttttttttzzg1234g');
+        system.debug('helgggggglffoggzzzttttttttttzzgg');
     }
 }
