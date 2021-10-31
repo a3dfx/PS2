@@ -5,5 +5,6 @@
     "**/.sfdx": true
   },
   "editor.find.globalFindClipboard": true,
-  "jshint.config": ""
+  "jshint.config": "",
+  "vlocity.sfdxUsername": "test-m1kimod2imss@example.com"
 }
